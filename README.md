@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArthurExecuted
-- 👀 I’m interested in Cinema, i'm doing this for tech points in my resume.
-- 🌱 I’m currently learning a lot of shit, idk how i haven't break up in pieces yet.
-- 💞️ I’m looking to collaborate on nothing programming related, rather movie related.
-- 📫 How to reach me: you don't.
+- 👀 I’m interested in Cinema, i'm doing this for tech points in my skill tree.
+- 🌱 I’m currently working on a game, and supposedly two websites.
+- 💞️ I’m looking to collaborate with whom i'm already collaborating with.
+- 📫 How to reach me: please not now.
 
 <!---
 ArthurExecuted/ArthurExecuted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
